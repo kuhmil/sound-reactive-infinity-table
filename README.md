@@ -5,6 +5,8 @@ This project involves:
 * With the use of an Arduino, you can make LEDs turn on and sound reactive
 * The LEDs colors based on different frequencies
 
+![alt text](images/falcon2.png)
+
 
 ## Description
 
