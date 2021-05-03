@@ -6,6 +6,7 @@ This project involves:
 * Potentiometer
 * Sound Detector
 * Jumper Wires
+* Resistors
 * 25 µF Capacitor
 * Toggle Switch or Slide Switch
 * Table or Frame
@@ -18,6 +19,9 @@ This project involves:
 
 ![alt text](images/falcon2.png)
 
+# Schematic (Schematic needs to be updated, do not replicate)
+
+![alt text](images/schematic.png)
 
 ## Sources
 
