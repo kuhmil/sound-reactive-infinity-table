@@ -19,7 +19,7 @@ This project involves:
 ![alt text](images/falcon2.png)
 
 
-## Description
+## Sources
 
 This project was continuation of the Sound Reactive Christmas Tree design. 
 I initially wanted to create a display case for the lego millenium falcon. 
@@ -52,24 +52,12 @@ LEDs would change colors when there were different frequencies.
 [comment]: <> (```)
 
 [comment]: <> (code blocks for commands)
-```
 
 ## Authors
 
 Camille Owens
 
-[comment]: <> (## Version History)
 
-[comment]: <> (* 0.2)
-
-[comment]: <> (    * Various bug fixes and optimizations)
-
-[comment]: <> (    * See [commit change]&#40;&#41; or See [release history]&#40;&#41;)
-
-[comment]: <> (* 0.1)
-
-[comment]: <> (    * Initial Release)
-    
 ## Acknowledgments
 
 [comment]: <> (Inspiration, code snippets, etc.)
