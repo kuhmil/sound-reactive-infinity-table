@@ -1,9 +1,20 @@
 # Sound Reactive Infinity Table
 
-This project involves: 
-* Installing an infinity mirror on the base of a coffee table
-* With the use of an Arduino, you can make LEDs turn on and sound reactive
-* The LEDs colors based on different frequencies
+This project involves:
+* An Arduino
+* Addressable LED RGB Strip
+* Potentiometer
+* Sound Detector
+* Jumper Wires
+* 25 µF Capacitor
+* Toggle Switch or Slide Switch
+* Table or Frame
+* Smaller Frame (to fit inside of the table/frame)
+* Glass
+* Mirror
+* Two way window film
+* Power tools
+* Super glue
 
 ![alt text](images/falcon2.png)
 
@@ -18,39 +29,48 @@ Once the table was bullt I installed an infinity mirror on the base of a coffee 
 With the use of an Arduino, the color of the LEDs would turn on when the sound sensor picked up on noise. 
 LEDs would change colors when there were different frequencies.
 
-## Getting Started
+[comment]: <> (## Getting Started)
 
-### Dependencies
+[comment]: <> (### Dependencies)
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+[comment]: <> (* Describe any prerequisites, libraries, OS version, etc., needed before installing program.)
 
-### Installing
+[comment]: <> (* ex. Windows 10)
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+[comment]: <> (### Installing)
 
-### Executing program
+[comment]: <> (* How/where to download your program)
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
+[comment]: <> (* Any modifications needed to be made to files/folders)
+
+[comment]: <> (### Executing program)
+
+[comment]: <> (* How to run the program)
+
+[comment]: <> (* Step-by-step bullets)
+
+[comment]: <> (```)
+
+[comment]: <> (code blocks for commands)
 ```
 
 ## Authors
 
 Camille Owens
 
-## Version History
+[comment]: <> (## Version History)
 
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
+[comment]: <> (* 0.2)
+
+[comment]: <> (    * Various bug fixes and optimizations)
+
+[comment]: <> (    * See [commit change]&#40;&#41; or See [release history]&#40;&#41;)
+
+[comment]: <> (* 0.1)
+
+[comment]: <> (    * Initial Release)
     
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
+[comment]: <> (Inspiration, code snippets, etc.)
 * [sparkfun](https://www.sparkfun.com/)
